@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Лев Бушмин - услуги по автоматизации, программирование ЧПУ станков и контроллеров, разработка SCADA систем, программирование на C++">
+    <title>Лев Бушмин - Автоматизация и программирование</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+        }
+        section {
+            padding: 2rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            color: #444;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .contact {
+            margin-top: 2rem;
+            background-color: #e9e9e9;
+            padding: 1rem;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #333;
+            color: white;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Лев Бушмин</h1>
+    <p>Автоматизация и программирование</p>
+</header>
+
+<section>
+    <h2>Обо мне</h2>
+    <p>Меня зовут Лев Константинович Бушмин. Я предоставляю комплексные услуги по автоматизации, программирую ЧПУ станки и контроллеры, создаю программы для SCADA систем, а также занимаюсь программированием на C++. Мой стаж работы в данной области составляет 5 лет.</p>
+    
+    <h2>Мои услуги</h2>
+    <ul>
+        <li>Программирование ЧПУ станков</li>
+        <li>Программирование контроллеров</li>
+        <li>Разработка SCADA систем</li>
+        <li>Программирование на C++</li>
+        <li>Комплексная автоматизация производственных процессов</li>
+    </ul>
+
+    <div class="contact">
+        <h2>Контакты для связи</h2>
+        <p>Электронная почта: <a href="mailto:levbushmin45@yandex.ru">levbushmin45@yandex.ru</a></p>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2024 Лев Бушмин. Все права защищены.</p>
+</footer>
+
+</body>
+</html>
